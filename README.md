@@ -2,6 +2,6 @@
 iOS Git Demo
 
 * Where do you live?
-	* Paul: Rochester, NY
+	* Paul: Rochester, New York
 * What is your favorite food?
-	* Paul: Spicy Tacos
+	* Paul: Choco Tacos
